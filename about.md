@@ -4,8 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Hi, I'm Gernot Riegler, a PhD student at the [Institute for Computer Graphics and Vision](http://www.icg.tugraz.at), which belongs to  the [Graz University of Technology](http://tugraz.at).
+You can also have a look at the site of the [lab](http://rvlab.icg.tugraz.at/personal_page/personal_page_gernot.html).
