@@ -98,6 +98,12 @@ tar -c --xz -f archive.tar.xz /some_directory/
 tar -x --xz -f archive.tar.xz 
 {% endhighlight %}
 
+Pass options (like compression level 2 and verbose) to xz via XZ_OPT system variable
+
+{% highlight bash %}
+XZ_OPT=-2v tar -c --xz -f archive.tar.xz /some_directory/
+{% endhighlight %}
+
 * Compress and decompress with lzma
 
 {% highlight bash %}
