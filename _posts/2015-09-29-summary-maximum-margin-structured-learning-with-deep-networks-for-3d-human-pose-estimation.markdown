@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Paper: Maximum-Margin Structured Learning with Deep Networks for 3D Human Pose Estimation"
+title:  "Summary: Maximum-Margin Structured Learning with Deep Networks for 3D Human Pose Estimation"
 date:   2015-09-29 10:00:00
-categories: paper deep-learning pose-estimation
+categories: summary paper deep-learning pose-estimation
 ---
 
 [Link to the paper](http://arxiv.org/abs/1508.06708), accepted to ICCV'15
