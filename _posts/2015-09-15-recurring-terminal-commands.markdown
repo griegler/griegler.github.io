@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Recurring Terminal Commands"
+comments: true
 date:   2015-09-15 09:51:03
 categories: git pdf compression remote
 ---
