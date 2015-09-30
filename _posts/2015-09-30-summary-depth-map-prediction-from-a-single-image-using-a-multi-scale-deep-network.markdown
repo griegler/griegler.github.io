@@ -22,19 +22,12 @@ The output of the coarse network get concatenated to the feature maps of the fir
 Given the observation that a lot of the error can be contributed to the global scale estimation, the authors propose a new error metric.
 With \\(d_i = \log y_i - \log t_i\\), the metric is defined as
 
-\\[
-  L(y, t) = \frac{1}{n^2} \sum_{i,j} ((\log y_i - \log y_j) - (\log t_i - \log t_j) )^2
-\\]
-\\[
-  L(y, t) = \frac{1}{n} \sum_{i} d_i^2 - \frac{1}{n^2} (\sum_{i} d_i)^2
-\\]
+\\[ L(y, t) = \frac{1}{n^2} \sum_{i,j} ((\log y_i - \log y_j) - (\log t_i - \log t_j) )^2 \\]
+\\[ L(y, t) = \frac{1}{n} \sum_{i} d_i^2 - \frac{1}{n^2} (\sum_{i} d_i)^2 \\]
 
 This metric measures the relative distances instead the absolute one.
 For training the influence is further adjusted with a parameter \\(\lambda\\):
-
-\\[
-  L(y, t) = \frac{1}{n} \sum_{i} d_i^2 - \frac{\lambda}{n^2} (\sum_{i} d_i)^2
-\\]
+\\[ L(y, t) = \frac{1}{n} \sum_{i} d_i^2 - \frac{\lambda}{n^2} (\sum_{i} d_i)^2 \\]
 
 The evaluation is performed on the NYU Depth v2 and KITTI benchmarks. 
 To extend the training set, data augmentation is performed (scaling, rotation, translation, color, flips).
