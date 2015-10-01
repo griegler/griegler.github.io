@@ -6,7 +6,7 @@ date:   2015-09-29 10:00:00
 categories: summary paper deep-learning pose-estimation
 ---
 
-[Link to the paper](http://arxiv.org/abs/1508.06708), accepted to ICCV'15
+[Link to the paper](http://arxiv.org/abs/1508.06708), ICCV'15
 
 # Summary
 The paper presents a ConvNet that transforms an image and a pose vector to a common sate vector (**embedding**). 
