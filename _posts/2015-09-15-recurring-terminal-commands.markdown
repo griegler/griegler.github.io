@@ -112,6 +112,12 @@ tar -c --lzma -f archive.tar.lzma /some_directory/
 tar -x --lzma -f archive.tar.lzma 
 {% endhighlight %}
 
+* Unpack an ISO with 7z
+
+{% highlight bash %}
+7z x file.iso
+{% endhighlight %}
+
 # Remote
 
 * Inspect output of a running process from another terminal (pid = process id; needs root)
