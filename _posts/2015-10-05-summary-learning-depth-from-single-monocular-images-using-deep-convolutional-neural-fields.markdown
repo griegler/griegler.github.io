@@ -12,7 +12,7 @@ Extended version of their CVPR'15 [paper](http://arxiv.org/abs/1411.6387)
 
 # Summary
 The paper presents an approach for depth estimation from a single RGB image, *c.f.* this [post]({% post_url 2015-09-30-summary-depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network %}) and this [post]({% post_url 2015-10-01-summary-predicting-depth-surface-normals-and-semantic-labels-with-a-common-multi-scale-convolutional-architecture %}), based on a ConvNet and a Conditioned Random Field (CRF).
-The CRF is integrated into the Network via a **specific loss function** that incorporates unary and pair-wise potentials.
+The CRF is integrated into the network via a **specific loss function** that incorporates unary and pair-wise potentials.
 The unary network is a vanilla ConvNet (pretrained on ImageNet data), whereas the "network" for the pair-wise potentials is in fact a linear regression based on similarity measures between super-pixels.
 Due to the special design of the potentials (**quadratic form**) it can be solved in closed form.
 Therefore, the inference and the back-propagation of the gradients is feasible.
