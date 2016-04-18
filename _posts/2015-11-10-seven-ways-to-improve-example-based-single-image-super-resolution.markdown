@@ -3,7 +3,7 @@ layout: post
 title:  "Summary: Seven ways to improve example-based single image super resolution"
 comments: true
 date:   2015-11-10 16:00:00
-categories: summary paper super-resolution
+category: summary
 ---
 
 [Link to the paper](http://arxiv.org/abs/1511.02228).

@@ -3,7 +3,7 @@ layout: post
 title:  "Summary: Holistically-Nested Edge Detection"
 comments: true
 date:   2015-10-16 15:00:00
-categories: summary paper deep-learning recurrent convolutional
+category: summary
 ---
 
 [Link to the paper](http://arxiv.org/abs/1504.06375), ICCV'15.

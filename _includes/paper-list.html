@@ -1,0 +1,24 @@
+
+<!-- Post List Start -->
+
+<div class="pub">
+  <div class="col-md-6">
+    <img src="{{ post.teaser }}" alt="teaser" />
+  </div>
+  
+  <div class="col-md-6">
+    <h4>
+      {{ post.title }} 
+      <br />
+      <small>{{ post.authors}}</small>
+      <br />
+      <small>{{ post.conference}} {{ post.year}}</small>
+    </h4>
+    
+    <div class="abstract">
+      {{ post.output }}
+    </div>
+  </div>
+</div>
+
+<!-- Post List End -->

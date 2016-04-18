@@ -1,0 +1,12 @@
+---
+title:  "Learning Depth Calibration of Time-of-Flight Cameras"
+teaser: "/img/teaser/tof-calib.png"
+authors: "David Ferstl, Christian Reinbacher, Gernot Riegler, Matthias Rüther, Horst Bischof"
+conference: BMVC
+year: 2015
+comments: false
+---
+
+We present a novel method for an automatic calibration of modern consumer Time-of-Flight cameras. Usually, these sensors come equipped with an integrated color camera. Albeit they deliver acquisitions at high frame rates they usually suffer from incorrect calibration and low accuracy due to multiple error sources. Using information from both cameras together with a simple planar target, we will show how to accurately calibrate both color and depth camera and tackle most error sources inherent to Time-of-Flight technology in a unified calibration framework. Automatic feature detection minimizes user interaction during calibration. We utilize a Random Regression Forest to optimize the manufacturer supplied depth measurements. We show the improvements to commonly used depth calibration methods in a qualitative and quantitative evaluation on multiple scenes acquired by an accurate reference system for the application of dense 3D reconstruction.
+
+[Paper](/papers/tof-calib.pdf)

@@ -1,0 +1,20 @@
+
+<!-- About Start -->
+
+<section id="{{ page.section-type }}" class="container content-section text-left">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      {{ page.content | markdownify }}
+
+      <div>
+        {% for post in site.papers reversed %}
+          {% include paper-list.html%}
+        {% endfor %}
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- About End -->

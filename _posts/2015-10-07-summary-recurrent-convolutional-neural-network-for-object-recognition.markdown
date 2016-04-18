@@ -3,7 +3,7 @@ layout: post
 title:  "Summary: Recurrent Convolutional Neural Network for Object Recognition"
 comments: true
 date:   2015-10-07 17:00:00
-categories: summary paper deep-learning recurrent convolutional
+category: summary
 ---
 
 [Link to the paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liang_Recurrent_Convolutional_Neural_2015_CVPR_paper.pdf), CVPR'15.

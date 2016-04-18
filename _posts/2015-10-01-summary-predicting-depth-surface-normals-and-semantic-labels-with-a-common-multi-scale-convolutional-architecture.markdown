@@ -3,7 +3,7 @@ layout: post
 title:  "Summary: Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-Scale Convolutional Architecture"
 comments: true
 date:   2015-10-01 15:00:00
-categories: summary paper deep-learning depth-estimation
+category: summary
 ---
 
 [Link to the paper](http://arxiv.org/abs/1411.4734), ICCV'15

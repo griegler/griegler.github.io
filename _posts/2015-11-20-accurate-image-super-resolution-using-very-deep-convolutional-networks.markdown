@@ -3,7 +3,7 @@ layout: post
 title:  "Summary: Accurate Image Super-Resolution Using Very Deep Convolutional Networks"
 comments: true
 date:   2015-11-20 14:00:00
-categories: summary paper super-resolution
+category: summary
 ---
 
 [Link to the paper](http://arxiv.org/abs/1511.04587).

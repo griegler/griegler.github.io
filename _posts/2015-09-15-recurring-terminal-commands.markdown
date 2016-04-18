@@ -3,7 +3,7 @@ layout: post
 title:  "Recurring Terminal Commands"
 comments: true
 date:   2015-09-15 09:51:03
-categories: git pdf compression remote
+category: help
 ---
 This is a small list of terminal commands that I need sometimes. 
 Because I do not want to google them all the time, I state them here.

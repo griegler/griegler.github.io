@@ -3,7 +3,7 @@ layout: post
 title:  "Summary: Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields"
 comments: true
 date:   2015-10-05 17:00:00
-categories: summary paper deep-learning depth CRF
+category: summary
 ---
 
 [Link to the paper](http://arxiv.org/abs/1502.07411), arXiv.

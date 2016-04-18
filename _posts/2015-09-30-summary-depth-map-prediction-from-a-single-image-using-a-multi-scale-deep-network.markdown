@@ -3,7 +3,7 @@ layout: post
 title:  "Summary: Depth Map Prediction from a Single Image using a Multi-Scale Deep Network"
 comments: true
 date:   2015-09-30 15:00:00
-categories: summary paper deep-learning depth-estimation
+category: summary
 ---
 
 [Link to the paper](http://arxiv.org/abs/1406.2283), NIPS'14

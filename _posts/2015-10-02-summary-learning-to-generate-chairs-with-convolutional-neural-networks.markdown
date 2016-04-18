@@ -3,7 +3,7 @@ layout: post
 title:  "Summary: Learning to Generate Chairs with Convolutional Neural Networks"
 comments: true
 date:   2015-10-02 15:00:00
-categories: summary paper deep-learning generative
+category: summary
 ---
 
 [Link to the paper](http://arxiv.org/abs/1411.5928), CVPR'15
