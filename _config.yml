@@ -154,7 +154,7 @@ pages_list:
   About: 'about'
   Timeline: 'timeline'
   Publications: 'papers'
-  Blog: 'latest-post'
+  # Blog: 'latest-post'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
