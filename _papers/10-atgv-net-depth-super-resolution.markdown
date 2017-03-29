@@ -3,7 +3,7 @@ title:  "ATGV-Net: Accurate Depth Super-Resolution"
 teaser: "/img/teaser/dsr.png"
 authors: "Gernot Riegler, Matthias Rüther, Horst Bischof"
 conference: ECCV
-year: 2016
+year: 2016 (poster)
 comments: false
 ---
 

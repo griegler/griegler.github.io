@@ -3,7 +3,7 @@ title:  "Efficiently Creating 3D Training Data for Fine Hand Pose Estimation"
 teaser: "/img/teaser/hand-pose-training-data.png"
 authors: "Markus Oberweger, Gernot Riegler, Paul Wohlhart, Vincent Lepetit"
 conference: CVPR
-year: 2016
+year: 2016 (poster)
 comments: false
 ---
 

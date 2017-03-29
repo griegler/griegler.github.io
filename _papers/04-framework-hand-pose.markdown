@@ -3,7 +3,7 @@ title:  "A Framework for Articulated Hand Pose Estimation and Evaluation"
 teaser: "/img/teaser/framework-hand-pose.png"
 authors: "Gernot Riegler, David Ferstl, Matthias Rüther, Horst Bischof"
 conference: SCIA
-year: 2015
+year: 2015 (oral)
 comments: false
 ---
 

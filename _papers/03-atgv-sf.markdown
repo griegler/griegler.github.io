@@ -3,7 +3,7 @@ title:  "aTGV-SF: Dense Variational Scene Flow through Projective Warping and Hi
 teaser: "/img/teaser/atgv-sf.png"
 authors: "David Ferstl, Christian Reinbacher, Gernot Riegler, Matthias Ruether, Horst Bischof"
 conference: 3DV
-year: 2014
+year: 2014 (oral)
 comments: false
 ---
 

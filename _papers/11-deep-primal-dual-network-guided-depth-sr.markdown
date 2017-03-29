@@ -3,7 +3,7 @@ title:  "A Deep Primal-Dual Network for Guided Depth Super-Resolution"
 teaser: "/img/teaser/gdsr.png"
 authors: "Gernot Riegler, David Ferstl, Matthias Rüther, Horst Bischof"
 conference: BMVC
-year: 2016
+year: 2016 (oral)
 comments: false
 ---
 

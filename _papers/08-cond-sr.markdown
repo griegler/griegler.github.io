@@ -3,7 +3,7 @@ title:  "Conditioned Regression Models for Non-Blind Single Image Super-Resoluti
 teaser: "/img/teaser/cond-sr.png"
 authors: "Gernot Riegler, Samuel Schulter, Matthias Rüther, Horst Bischof"
 conference: ICCV
-year: 2015
+year: 2015 (poster)
 comments: false
 ---
 

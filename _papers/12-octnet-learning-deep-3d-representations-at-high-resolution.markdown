@@ -2,8 +2,8 @@
 title:  "OctNet: Learning Deep 3D Representations at High Resolution"
 teaser: "/img/teaser/octnet.png"
 authors: "Gernot Riegler, Ali Osman Ulusoy, Andreas Geiger"
-conference: arxiv
-year: 2016
+conference: CVPR
+year: 2017 (oral)
 comments: false
 ---
 
@@ -15,4 +15,4 @@ We demonstrate the utility of our OctNet representation by analyzing the impact 
 
 
 [Paper](https://arxiv.org/abs/1611.05009)
-
+[Code](https://github.com/griegler/octnet)

@@ -3,7 +3,7 @@ title:  "Learning Depth Calibration of Time-of-Flight Cameras"
 teaser: "/img/teaser/tof-calib.png"
 authors: "David Ferstl, Christian Reinbacher, Gernot Riegler, Matthias Rüther, Horst Bischof"
 conference: BMVC
-year: 2015
+year: 2015 (poster)
 comments: false
 ---
 

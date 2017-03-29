@@ -3,7 +3,7 @@ title:  "Anatomical landmark detection in medical applications driven by synthet
 teaser: "/img/teaser/anatomical-landmark.png"
 authors: "Gernot Riegler, Martin Urschler, Matthias Rüther, Horst Bischof, Darko Stern"
 conference: TASK-CV
-year: 2015
+year: 2015 (poster)
 comments: false
 ---
 

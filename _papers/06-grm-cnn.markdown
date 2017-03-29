@@ -3,7 +3,7 @@ title:  "Depth Restoration via Joint Training of a Global Regression Model and C
 teaser: "/img/teaser/grm-cnn.png"
 authors: "Gernot Riegler, Rene Ranftl, Matthias Rüther, Thomas Pock, Horst Bischof"
 conference: BMVC
-year: 2015
+year: 2015 (poster)
 comments: false
 ---
 

@@ -3,7 +3,7 @@ title:  "CP-Census: A Novel Model for Dense Variational Scene Flow from RGB-D Da
 teaser: "/img/teaser/cp-census.png"
 authors: "David Ferstl, Gernot Riegler, Matthias Rüther, Horst Bischof"
 conference: BMVC
-year: 2014
+year: 2014 (oral)
 comments: false
 ---
 
