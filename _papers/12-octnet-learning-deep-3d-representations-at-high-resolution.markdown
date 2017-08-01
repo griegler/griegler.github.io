@@ -16,3 +16,6 @@ We demonstrate the utility of our OctNet representation by analyzing the impact 
 
 [Paper](https://arxiv.org/abs/1611.05009)
 [Code](https://github.com/griegler/octnet)
+[Poster](/papers/octnet_poster.pdf)
+[Slides](/papers/octnet_slides.pdf)
+[Presentation](https://www.youtube.com/watch?v=qYyephF2BBw)
