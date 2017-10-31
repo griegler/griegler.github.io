@@ -2,8 +2,8 @@
 title:  "OctNetFusion: Learning Depth Fusion from Data"
 teaser: "/img/teaser/octnetfusion.png"
 authors: "Gernot Riegler, Ali Osman Ulusoy, Horst Bischof, Andreas Geiger"
-conference: Preprint
-year: 2017 
+conference: 3DV
+year: 2017 (oral)
 comments: false
 ---
 
@@ -18,4 +18,6 @@ Further, we demonstrate state-of-the-art 3D shape completion results.
 
 
 [Paper](https://arxiv.org/abs/1704.01047)
-
+[Code](https://github.com/griegler/octnetfusion)
+[Poster](/papers/octnetfusion_poster.pdf)
+[Slides](/papers/octnetfusion_slides.pdf)
