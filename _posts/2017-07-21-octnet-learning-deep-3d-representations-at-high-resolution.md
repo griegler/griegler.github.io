@@ -1,4 +1,5 @@
 ---
+layout: none
 title:  "OctNet: Learning Deep 3D Representations at High Resolution"
 teaser: "/images/teaser/octnet.png"
 authors: "Gernot Riegler, Ali Osman Ulusoy, Andreas Geiger"

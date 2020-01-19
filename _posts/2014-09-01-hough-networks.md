@@ -1,4 +1,5 @@
 ---
+layout: none
 title:  "Hough Networks for Head Pose Estimation and Facial Feature Localization"
 teaser: "/images/teaser/hough_networks.png"
 authors: "Gernot Riegler, David Ferstl, Matthias Rüther, Horst Bischof"

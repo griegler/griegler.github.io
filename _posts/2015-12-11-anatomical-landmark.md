@@ -1,4 +1,5 @@
 ---
+layout: none
 title:  "Anatomical landmark detection in medical applications driven by synthetic data"
 teaser: "/images/teaser/anatomical-landmark.png"
 authors: "Gernot Riegler, Martin Urschler, Matthias Rüther, Horst Bischof, Darko Stern"

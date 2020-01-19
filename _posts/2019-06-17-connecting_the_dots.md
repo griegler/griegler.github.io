@@ -1,4 +1,5 @@
 ---
+layout: none
 title:  "Connecting the Dots: Learning Representations for Active Monocular Depth Estimation"
 teaser: "/images/teaser/connecting_the_dots.jpg"
 authors: "Gernot Riegler, Yiyi Liao, Simon Donne, Vladlen Koltun, Andreas Geiger"

@@ -1,4 +1,5 @@
 ---
+layout: none
 title:  "A Deep Primal-Dual Network for Guided Depth Super-Resolution"
 teaser: "/images/teaser/gdsr.png"
 authors: "Gernot Riegler, David Ferstl, Matthias Rüther, Horst Bischof"

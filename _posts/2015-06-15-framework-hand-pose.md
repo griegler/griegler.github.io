@@ -1,4 +1,5 @@
 ---
+layout: none
 title:  "A Framework for Articulated Hand Pose Estimation and Evaluation"
 teaser: "/images/teaser/framework-hand-pose.png"
 authors: "Gernot Riegler, David Ferstl, Matthias Rüther, Horst Bischof"

@@ -1,4 +1,5 @@
 ---
+layout: none
 title:  "ATGV-Net: Accurate Depth Super-Resolution"
 teaser: "/images/teaser/dsr.png"
 authors: "Gernot Riegler, Matthias Rüther, Horst Bischof"

@@ -1,4 +1,5 @@
 ---
+layout: none
 title:  "OctNetFusion: Learning Depth Fusion from Data"
 teaser: "/images/teaser/octnetfusion.png"
 authors: "Gernot Riegler, Ali Osman Ulusoy, Horst Bischof, Andreas Geiger"
