@@ -8,6 +8,23 @@ permalink: /publications/
 
 <div class="pub">
 {% for post in site.posts %}
-  {% include paper.html%}
+    <div class="row">
+      <div class="col-md-4">
+        <img src="{{ post.teaser }}" alt="teaser" />
+      </div>
+      
+      <div class="col-md-7">
+        <h4>
+          {{ post.title }} 
+        </h4>
+        <small>{{ post.authors}}</small>
+        <br />
+        <small>{{ post.conference}} {{ post.year}}</small>
+        
+        <div class="abstract">
+          {{ post.output }}
+        </div>
+      </div>
+    </div>
 {% endfor %}
 </div>
