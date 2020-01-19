@@ -1,0 +1,13 @@
+---
+layout: default
+title: Publications
+permalink: /publications/
+---
+
+<h1>Publications</h1>
+
+<div class="pub">
+{% for post in site.posts %}
+  {% include paper.html%}
+{% endfor %}
+</div>
